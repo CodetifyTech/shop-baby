@@ -1,0 +1,2 @@
+(function(){var __sections__={};(function(){for(var i=0,s=document.getElementById("sections-script").getAttribute("data-sections").split(",");i<s.length;i++)__sections__[s[i]]=!0})(),function(){if(__sections__["header-top-promo"])try{jQuery.cookie("headerTop")=="closed"&&jQuery(".header-top").fadeOut(),jQuery(".header-top a.close").bind("click",function(){jQuery(".header-top").fadeOut(),jQuery.cookie("headerTop","closed",{expires:-1,path:"/"})})}catch(e){console.error(e)}}()})();
+//# sourceMappingURL=/cdn/shop/t/3/compiled_assets/scripts.js.map?1038=

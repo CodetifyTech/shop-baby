@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://dt-baby-care.myshopify.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://dt-baby-care.myshopify.com/collections/frontpage.atom"/>
+  <title>Mini Me | Baby Store (password: buddha)</title>
+  <updated>2018-08-29T06:04:44-04:00</updated>
+  <author>
+    <name>Mini Me | Baby Store (password: buddha)</name>
+  </author>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004894321</id>
+    <published>2018-08-29T06:04:44-04:00</published>
+    <updated>2018-08-29T06:04:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/baby-gift-set"/>
+    <title>Baby Gift Set</title>
+    <s:type>Toys</s:type>
+    <s:vendor>Style Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product3.jpg?v=1535537088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Style Zone<br>
+        <strong>Type: </strong>Toys<br>
+        <strong>Price: </strong>
+            500.00 - 900.00
+            <a href="https://dt-baby-care.myshopify.com/products/baby-gift-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $1000</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Silicon</s:tag>
+    <s:tag>Style Aone</s:tag>
+    <s:tag>Toys</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004894321</id>
+      <title>L / White / Silicon</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004894321</id>
+      <title>M / Blue / Silicon</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004894321</id>
+      <title>S / Yellow / Silicon</title>
+      <s:price currency="USD">666.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004828785</id>
+    <published>2018-08-29T06:04:41-04:00</published>
+    <updated>2018-08-29T06:04:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/newborn-kit-set"/>
+    <title>Newborn Kit Set</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Style Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product4.jpg?v=1535537083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Style Zone<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            300.00 - 489.00
+            <a href="https://dt-baby-care.myshopify.com/products/newborn-kit-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$300 - $500</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Style Zone</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004828785</id>
+      <title>S / Blue / Clothes</title>
+      <s:price currency="USD">300.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004828785</id>
+      <title>M / White / Clothes</title>
+      <s:price currency="USD">399.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004828785</id>
+      <title>L / Green / Clothes</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004697713</id>
+    <published>2018-08-29T06:04:37-04:00</published>
+    <updated>2018-08-29T06:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/baby-soap"/>
+    <title>Baby Soap</title>
+    <s:type>Baby Soap</s:type>
+    <s:vendor>Himalaya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product5.jpg?v=1535537081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Himalaya<br>
+        <strong>Type: </strong>Baby Soap<br>
+        <strong>Price: </strong>
+            100.00 - 500.00
+            <a href="https://dt-baby-care.myshopify.com/products/baby-soap">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$100 - $500</s:tag>
+    <s:tag>Baby Soup</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Himalaya</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004697713</id>
+      <title>M / Blue / plastic</title>
+      <s:price currency="USD">100.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004697713</id>
+      <title>S / Pink / plastic</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004697713</id>
+      <title>L / Yellow / plastic</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004533873</id>
+    <published>2018-08-29T06:04:35-04:00</published>
+    <updated>2018-08-29T06:04:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/bath-kit"/>
+    <title>Bath Kit</title>
+    <s:type>Towel</s:type>
+    <s:vendor>Style Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product6.jpg?v=1535537077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Style Zone<br>
+        <strong>Type: </strong>Towel<br>
+        <strong>Price: </strong>
+            500.00 - 700.00
+            <a href="https://dt-baby-care.myshopify.com/products/bath-kit">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Style Zone</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004533873</id>
+      <title>M / Yellow / Clothes</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004533873</id>
+      <title>S / White / Clothes</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004533873</id>
+      <title>L / Green / Clothes</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004435569</id>
+    <published>2018-08-29T06:04:31-04:00</published>
+    <updated>2018-08-29T06:04:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/baby-bath-sets"/>
+    <title>Baby Bath Sets</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Mee Mee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product7.jpg?v=1535537074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mee Mee<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            700.00 - 989.00
+            <a href="https://dt-baby-care.myshopify.com/products/baby-bath-sets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Mee Mee</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004435569</id>
+      <title>S / Green / Clothes</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004435569</id>
+      <title>M / White / Clothes</title>
+      <s:price currency="USD">900.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004435569</id>
+      <title>L / Yellow / Clothes</title>
+      <s:price currency="USD">989.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004271729</id>
+    <published>2018-08-29T06:04:28-04:00</published>
+    <updated>2018-08-29T06:04:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/baby-oil"/>
+    <title>Baby Oil</title>
+    <s:type>Oil</s:type>
+    <s:vendor>Himalaya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product8.jpg?v=1535537071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Himalaya<br>
+        <strong>Type: </strong>Oil<br>
+        <strong>Price: </strong>
+            530.00 - 699.00
+            <a href="https://dt-baby-care.myshopify.com/products/baby-oil">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Himalaya</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004271729</id>
+      <title>S / Yellow / Plastic</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004271729</id>
+      <title>M / Red / Plastic</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004271729</id>
+      <title>L / Orange / Plastic</title>
+      <s:price currency="USD">530.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004206193</id>
+    <published>2018-08-29T06:04:25-04:00</published>
+    <updated>2018-08-29T06:04:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/feeding-bottle"/>
+    <title>Feeding Bottle</title>
+    <s:type>Feeding Bottle</s:type>
+    <s:vendor>Mee Mee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product9.jpg?v=1535537067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mee Mee<br>
+        <strong>Type: </strong>Feeding Bottle<br>
+        <strong>Price: </strong>
+            250.00 - 400.00
+            <a href="https://dt-baby-care.myshopify.com/products/feeding-bottle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $500</s:tag>
+    <s:tag>Feeding Bottle</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Mee Mee</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:tag>Silicon</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004206193</id>
+      <title>L / Orange / Silicon</title>
+      <s:price currency="USD">250.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004206193</id>
+      <title>M / Blue / Silicon</title>
+      <s:price currency="USD">400.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004206193</id>
+      <title>S / Sandal / Silicon</title>
+      <s:price currency="USD">359.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004075121</id>
+    <published>2018-08-29T06:04:22-04:00</published>
+    <updated>2018-08-29T06:04:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/baby-bathtub"/>
+    <title>Baby Bathtub</title>
+    <s:type>Bath tub</s:type>
+    <s:vendor>God Gift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product10.jpg?v=1535537064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>God Gift<br>
+        <strong>Type: </strong>Bath tub<br>
+        <strong>Price: </strong>
+            499.00 - 599.00
+            <a href="https://dt-baby-care.myshopify.com/products/baby-bathtub">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$400 - $600</s:tag>
+    <s:tag>Bath Tub</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>God Gift</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004075121</id>
+      <title>S / Blue / plastic</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004075121</id>
+      <title>M / Brown / plastic</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004075121</id>
+      <title>L / Green / plastic</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461004009585</id>
+    <published>2018-08-29T06:04:20-04:00</published>
+    <updated>2018-08-29T06:04:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/towels-set"/>
+    <title>Towels Set</title>
+    <s:type>Towel</s:type>
+    <s:vendor>Mee Mee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product11.jpg?v=1535537061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mee Mee<br>
+        <strong>Type: </strong>Towel<br>
+        <strong>Price: </strong>
+            600.00 - 789.00
+            <a href="https://dt-baby-care.myshopify.com/products/towels-set">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$600 - $800</s:tag>
+    <s:tag>Feeding Bottle</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Mee Mee</s:tag>
+    <s:tag>Silicon</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004009585</id>
+      <title>M / White / Silicon</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004009585</id>
+      <title>S / Blue / Silicon</title>
+      <s:price currency="USD">659.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461004009585</id>
+      <title>L / Orange / Silicon</title>
+      <s:price currency="USD">789.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003878513</id>
+    <published>2018-08-29T06:04:17-04:00</published>
+    <updated>2018-08-29T06:04:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/bathing-accessories"/>
+    <title>Bathing Accessories</title>
+    <s:type>Baby Soap</s:type>
+    <s:vendor>Style Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product12.jpg?v=1535537059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Style Zone<br>
+        <strong>Type: </strong>Baby Soap<br>
+        <strong>Price: </strong>
+            599.00 - 699.00
+            <a href="https://dt-baby-care.myshopify.com/products/bathing-accessories">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Style Zone</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003878513</id>
+      <title>L / Yellow / Clothes</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003878513</id>
+      <title>M / Blue / Clothes</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003878513</id>
+      <title>S / Pink / Clothes</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003714673</id>
+    <published>2018-08-29T06:04:12-04:00</published>
+    <updated>2018-08-29T06:04:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/baby-play-sets"/>
+    <title>Baby Play Sets</title>
+    <s:type>Gift Set</s:type>
+    <s:vendor>Style Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product13.jpg?v=1535537056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Style Zone<br>
+        <strong>Type: </strong>Gift Set<br>
+        <strong>Price: </strong>
+            500.00 - 699.00
+            <a href="https://dt-baby-care.myshopify.com/products/baby-play-sets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500.00-$700.00</s:tag>
+    <s:tag>M</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Shampoo</s:tag>
+    <s:tag>Style Zone</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003714673</id>
+      <title>M / Red / Plastic</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003714673</id>
+      <title>S / White / Plastic</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003714673</id>
+      <title>L / Yellow / Plastic</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003583601</id>
+    <published>2018-08-29T06:04:09-04:00</published>
+    <updated>2018-08-29T06:04:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/baby-sipper"/>
+    <title>Baby Sipper</title>
+    <s:type>Feeding Bottle</s:type>
+    <s:vendor>God Gift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product14.jpg?v=1535537052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>God Gift<br>
+        <strong>Type: </strong>Feeding Bottle<br>
+        <strong>Price: </strong>
+            200.00 - 499.00
+            <a href="https://dt-baby-care.myshopify.com/products/baby-sipper">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$200 - $500</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Feeding Bottle</s:tag>
+    <s:tag>God Gift</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silicon</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003583601</id>
+      <title>S / Blue / Silicon</title>
+      <s:price currency="USD">200.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003583601</id>
+      <title>M / Sandal / Silicon</title>
+      <s:price currency="USD">499.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003583601</id>
+      <title>L / White / Silicon</title>
+      <s:price currency="USD">489.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1494527148145</id>
+    <published>2018-08-29T06:04:06-04:00</published>
+    <updated>2018-08-29T06:04:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/sound-making-toys"/>
+    <title>Sound Making Toys</title>
+    <s:type>Silicon Toy</s:type>
+    <s:vendor>Duck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product21_7f946147-4a42-424a-9dee-2ca1f44749f6.jpg?v=1536305632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Duck<br>
+        <strong>Type: </strong>Silicon Toy<br>
+        <strong>Price: </strong>
+            780.00 - 999.00
+            <a href="https://dt-baby-care.myshopify.com/products/sound-making-toys">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Duck</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silicon</s:tag>
+    <s:tag>Silicon Toy</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494527148145</id>
+      <title>S / Pink / Silicon</title>
+      <s:price currency="USD">780.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494527148145</id>
+      <title>M / Sandal / Silicon</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494527148145</id>
+      <title>L / Blue / Silicon</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1494509420657</id>
+    <published>2018-08-29T06:04:06-04:00</published>
+    <updated>2018-08-29T06:04:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/silicon-nipple"/>
+    <title>Silicon Nipple</title>
+    <s:type>Silicon Toy</s:type>
+    <s:vendor>Duck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product17_f75ef6a6-8537-4370-ad73-1ae949bdb320.jpg?v=1536305559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Duck<br>
+        <strong>Type: </strong>Silicon Toy<br>
+        <strong>Price: </strong>
+            780.00 - 999.00
+            <a href="https://dt-baby-care.myshopify.com/products/silicon-nipple">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Duck</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Sandal</s:tag>
+    <s:tag>Silicon</s:tag>
+    <s:tag>Silicon Toy</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494509420657</id>
+      <title>S / Sandal / Silicon</title>
+      <s:price currency="USD">780.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494509420657</id>
+      <title>M / Blue / Silicon</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494509420657</id>
+      <title>L / Pink / Silicon</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003518065</id>
+    <published>2018-08-29T06:04:06-04:00</published>
+    <updated>2018-08-29T06:04:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/teethers-toys"/>
+    <title>Teethers Toys</title>
+    <s:type>Silicon Toy</s:type>
+    <s:vendor>Duck</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product22.jpg?v=1535537048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Duck<br>
+        <strong>Type: </strong>Silicon Toy<br>
+        <strong>Price: </strong>
+            780.00 - 999.00
+            <a href="https://dt-baby-care.myshopify.com/products/teethers-toys">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Duck</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Silicon</s:tag>
+    <s:tag>Silicon Toy</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003518065</id>
+      <title>S / Blue / Silicon</title>
+      <s:price currency="USD">780.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003518065</id>
+      <title>M / Sandal / Silicon</title>
+      <s:price currency="USD">790.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003518065</id>
+      <title>L / Pink / Silicon</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1494413410417</id>
+    <published>2018-08-29T06:04:03-04:00</published>
+    <updated>2018-08-29T06:04:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/silicon-toys"/>
+    <title>Silicon Toys</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Skykids</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product18_1ec8cdf6-41fe-4830-a5f2-5e7a0c2add1a.jpg?v=1536303107"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skykids<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            580.00 - 700.00
+            <a href="https://dt-baby-care.myshopify.com/products/silicon-toys">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Skykids</s:tag>
+    <s:tag>Toy</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494413410417</id>
+      <title>S / Red / Plastic</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494413410417</id>
+      <title>M / Yellow / Plastic</title>
+      <s:price currency="USD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494413410417</id>
+      <title>L / Pink / Plastic</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1494410231921</id>
+    <published>2018-08-29T06:04:03-04:00</published>
+    <updated>2018-08-29T06:04:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/bathing-toys"/>
+    <title>Bathing Toys</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Skykids</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product19_6eea0b07-9a98-433e-998b-828b1a5b6003.jpg?v=1536303022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skykids<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            580.00 - 700.00
+            <a href="https://dt-baby-care.myshopify.com/products/bathing-toys">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Skykids</s:tag>
+    <s:tag>Toy</s:tag>
+    <s:tag>Yellow</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494410231921</id>
+      <title>S / Yellow / Plastic</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494410231921</id>
+      <title>M / Pink / Plastic</title>
+      <s:price currency="USD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1494410231921</id>
+      <title>L / Red / Plastic</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003452529</id>
+    <published>2018-08-29T06:04:03-04:00</published>
+    <updated>2018-08-29T06:04:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/beads-rattlers"/>
+    <title>Beads Rattlers</title>
+    <s:type>Toy</s:type>
+    <s:vendor>Skykids</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product23.jpg?v=1536303037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skykids<br>
+        <strong>Type: </strong>Toy<br>
+        <strong>Price: </strong>
+            580.00 - 700.00
+            <a href="https://dt-baby-care.myshopify.com/products/beads-rattlers">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Pink</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Skykids</s:tag>
+    <s:tag>Toy</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003452529</id>
+      <title>S / Pink / Plastic</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003452529</id>
+      <title>M / Red / Plastic</title>
+      <s:price currency="USD">580.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003452529</id>
+      <title>L / Yellow / Plastic</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003288689</id>
+    <published>2018-08-29T06:04:00-04:00</published>
+    <updated>2018-08-29T06:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/hooded-jackets"/>
+    <title>Hooded Jackets</title>
+    <s:type>Warm Clothes</s:type>
+    <s:vendor>Babiee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product24.jpg?v=1535537043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babiee<br>
+        <strong>Type: </strong>Warm Clothes<br>
+        <strong>Price: </strong>
+            550.00 - 700.00
+            <a href="https://dt-baby-care.myshopify.com/products/hooded-jackets">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Babiee</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Warm Clothes</s:tag>
+    <s:tag>Wollen</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003288689</id>
+      <title>S / Green / Wollen</title>
+      <s:price currency="USD">550.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003288689</id>
+      <title>M / Blue / Wollen</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003288689</id>
+      <title>L / Red / Wollen</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003157617</id>
+    <published>2018-08-29T06:03:57-04:00</published>
+    <updated>2018-08-29T06:03:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/romper-hoods"/>
+    <title>Romper &amp; Hoods</title>
+    <s:type>Warm Clothes</s:type>
+    <s:vendor>God Gift</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product25.jpg?v=1535537039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>God Gift<br>
+        <strong>Type: </strong>Warm Clothes<br>
+        <strong>Price: </strong>
+            700.00 - 999.00
+            <a href="https://dt-baby-care.myshopify.com/products/romper-hoods">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>God Gift</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Warm Clothes</s:tag>
+    <s:tag>Wollen</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003157617</id>
+      <title>L / Blue / Wollen</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003157617</id>
+      <title>M / Red / Wollen</title>
+      <s:price currency="USD">899.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003157617</id>
+      <title>S / Green / Wollen</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003092081</id>
+    <published>2018-08-29T06:03:54-04:00</published>
+    <updated>2018-08-29T06:03:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/thermals-onesies"/>
+    <title>Thermals Onesies</title>
+    <s:type>Dress</s:type>
+    <s:vendor>Babiee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product26.jpg?v=1535537036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Babiee<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            753.00 - 999.00
+            <a href="https://dt-baby-care.myshopify.com/products/thermals-onesies">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$700 - $1000</s:tag>
+    <s:tag>Babiee</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>S</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003092081</id>
+      <title>S / Blue / Clothes</title>
+      <s:price currency="USD">799.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003092081</id>
+      <title>M / White / Clothes</title>
+      <s:price currency="USD">753.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003092081</id>
+      <title>L / Orange / Clothes</title>
+      <s:price currency="USD">999.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461003026545</id>
+    <published>2018-08-29T06:03:51-04:00</published>
+    <updated>2018-08-29T06:03:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/full-sleeved-onesies"/>
+    <title>Full Sleeved Onesies</title>
+    <s:type>Dress</s:type>
+    <s:vendor>New Baby</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product27.jpg?v=1535537033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>New Baby<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            569.00 - 700.00
+            <a href="https://dt-baby-care.myshopify.com/products/full-sleeved-onesies">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Clothes</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>New Baby</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003026545</id>
+      <title>S / White / Clothes</title>
+      <s:price currency="USD">700.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003026545</id>
+      <title>M / Blue / Clothes</title>
+      <s:price currency="USD">569.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461003026545</id>
+      <title>L / Orange / Clothes</title>
+      <s:price currency="USD">586.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461002764401</id>
+    <published>2018-08-29T06:03:43-04:00</published>
+    <updated>2018-08-29T06:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/baby-diapers"/>
+    <title>Baby Diapers</title>
+    <s:type>Diapers</s:type>
+    <s:vendor>Johnson &amp; Johnson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product1.jpg?v=1535537026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Johnson &amp; Johnson<br>
+        <strong>Type: </strong>Diapers<br>
+        <strong>Price: </strong>
+            599.00 - 699.00
+            <a href="https://dt-baby-care.myshopify.com/products/baby-diapers">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>S</s:tag>
+    <s:tag>Style Zone</s:tag>
+    <s:tag>Towel</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461002764401</id>
+      <title>S / Blue / plastic</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461002764401</id>
+      <title>M / White / plastic</title>
+      <s:price currency="USD">600.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461002764401</id>
+      <title>L / Green / plastic</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://dt-baby-care.myshopify.com/products/1461002633329</id>
+    <published>2018-08-29T06:03:39-04:00</published>
+    <updated>2018-08-29T06:03:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://dt-baby-care.myshopify.com/products/infant-food"/>
+    <title>Infant Food</title>
+    <s:type>Feeding Bottle</s:type>
+    <s:vendor>Style Zone</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0034/2946/6225/products/product2.jpg?v=1535537022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Style Zone<br>
+        <strong>Type: </strong>Feeding Bottle<br>
+        <strong>Price: </strong>
+            500.00 - 699.00
+            <a href="https://dt-baby-care.myshopify.com/products/infant-food">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nam tempus turpis at metus scelerisque placerat nulla deumantos solicitud felis. Pellentesque diam dolor, elementum etos lobortis des mollis ut risus. Sedcus faucibus an sullamcorper mattis drostique des commodo pharetras loremos.Donec pretium egestas sapien et mollis.<br><strong></strong></p>
+<p><strong>Lorem ipsum dolor sit amet</strong><br><span></span></p>
+<p><span>Sonsectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</span></p>
+<p><strong>Busey ipsum dolor sit amet</strong><br></p>
+<p><span>Tortor at auctor urna nunc id cursus metus aliquam. Odio tempor orci dapibus ultrices. Tortor condimentum lacinia quis vel eros donec ac odio. Velit euismod in pellentesque massa placerat duis ultricies lacus. Scelerisque purus semper eget duis at tellus at urna condimentum. Eu facilisis sed odio morbi quis commodo odio aenean urpis massa sed elemen. </span></p>
+<p><strong>Vestibulum sit amet ipsum</strong></p>
+<p>Praesent vestibulum congue tellus at fringilla. Curabitur vitae semper sem, eu convallis est. Cras felis nunc commodo eu convallis vitae interdum non nisl. Maecenas ac est sit amet augue pharetra convallis nec danos dui. Cras suscipit quam et turpis eleifend vitae malesuada magna congue. Damus id ullamcorper neque. Sed vitae mi a mi pretium aliquet ac sed elit. Pellentesque nulla eros accumsan quis justo at tincidunt lobortis denimes loremous. Suspendisse vestibulum lectus in lectus volutpat, ut dapibus purus pulvinar. Vestibulum sit amet auctor ipsum.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>$500 - $700</s:tag>
+    <s:tag>Feeding Bottle</s:tag>
+    <s:tag>L</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Style Zone</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461002633329</id>
+      <title>L / White / Plastic</title>
+      <s:price currency="USD">500.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461002633329</id>
+      <title>M / Pink / Plastic</title>
+      <s:price currency="USD">599.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://dt-baby-care.myshopify.com/products/1461002633329</id>
+      <title>S / Sandal / Plastic</title>
+      <s:price currency="USD">699.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
